@@ -14,10 +14,10 @@ source myenv/bin/activate
 pip install flask
 
 # 4. Run the File
-python cyberpunk_scanner.py
+python cyber_scanner.py
 
 
-In another Terminal run this 
-ssh -R 80:localhost:5000 ssh.localhost.run
+# 5. In another Terminal run this 
+ssh -R 80:localhost:5000 serveo.net
 
 you will see a link copy it and send it to anyone.
